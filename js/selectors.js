@@ -9,5 +9,9 @@ function lastImageSelector() {
 }
 
 function ninjaBabySelector() {
-  $('#nin');
+  $('#baby-ninja');
+}
+
+function firstListItem() {
+  $("ul li #pic-list:first-child");
 }
